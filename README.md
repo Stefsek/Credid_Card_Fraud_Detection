@@ -1,4 +1,4 @@
-<img title="Credit Card Fraud Detection" alt="Stefan" width="1200px" src="https://deliciouskitchenstories.com/wp-content/uploads/2022/02/shutterstock_223094779.jpg" />
+<img title="Credit Card Fraud Detection" alt="Stefan" width="1000" height="500" src="https://deliciouskitchenstories.com/wp-content/uploads/2022/02/shutterstock_223094779.jpg" />
 
 ## Credit Card Fraud Detection
 
